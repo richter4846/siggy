@@ -1,0 +1,5 @@
+[package]
+name = "siggy"
+version = "0.1.0"
+edition = "2021"
+description = "Terminal-based Signal messenger client with vim keybindings"
