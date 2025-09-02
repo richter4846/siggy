@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Terminal-based Signal messenger client with vim keybindings"
 # clarify the control flow
+# avoid re-reading the config on every call
