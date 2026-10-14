@@ -11,3 +11,4 @@ dist/
 tmp/
 .cache/
 coverage/
+*.bak
